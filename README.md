@@ -1,4 +1,5 @@
 # Portfolio
+A mobile-first portfolio page designed to showcase projects and other relevant information. 
 
 ## Features
 - **Mobile-First Design**: Optimized for mobile devices with a responsive layout.
