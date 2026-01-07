@@ -7,7 +7,7 @@ body {
   min-height: 100vh;
   background-color: #f2f5ff;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-image: url("Line.png");
+  background-image: url("images/Line.png");
   background-size: cover;
   background-attachment: fixed;
 }
@@ -591,7 +591,7 @@ header > h2 {
 @media (min-width: 1700px) {
   body {
     background-position: top center;
-    background-image: url("Line-big.png");
+    background-image: url("images/Line-big.png");
   }
   .projects-container {
     display: grid;
@@ -628,3 +628,4 @@ header > h2 {
     background-size: contain;
   }
 }
+
