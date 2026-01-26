@@ -159,34 +159,34 @@ hr {
   border: #f2f5ff 2px solid;
 }
 .image1 {
-  background-image: url("niitty2.jpg");
+  background-image: url("images/niitty2.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 .image2 {
-  background-image: url("obstplan.jpg");
+  background-image: url("images/obstplan.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
 .image3 {
-  background-image: url("learn-english-app.jpg");
+  background-image: url("images/learn-english-app.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
 }
 .image4 {
-  background-image: url("weather-app.png");
+  background-image: url("images/weather-app.png");
   background-size: contain;
   background-attachment: fixed;
 }
 .image5 {
-  background-image: url("nordicheel.png");
+  background-image: url("images/nordicheel.png");
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;
 }
 .image6 {
-  background-image: url("skyline.jpg");
+  background-image: url("images/skyline.jpg");
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;
@@ -628,4 +628,5 @@ header > h2 {
     background-size: contain;
   }
 }
+
 
